@@ -33,9 +33,9 @@ class Main {
 
 		Scanner sc = new Scanner(System.in);
 		String[] str = sc.next().split("");
-        int i = sc.nextInt();
-        
-        System.out.println(str[i-1]);
+		int i = sc.nextInt();
+
+		System.out.println(str[i-1]);
         
         
 	}
