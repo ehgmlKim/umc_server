@@ -22,6 +22,7 @@
 
  <p>시험 성적을 출력한다.</p>
 
+### 풀이
 ```java
 import java.util.Scanner;
 
