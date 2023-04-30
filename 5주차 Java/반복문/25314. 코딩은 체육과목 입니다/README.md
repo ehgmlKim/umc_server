@@ -38,10 +38,10 @@ class Main {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
 		
-        for(int i=1; i<=n/4;i++){
-            System.out.print("long ");
-        }
-        System.out.print("int");
+		for(int i=1; i<=n/4;i++){
+		    System.out.print("long ");
+		}
+		System.out.print("int");
 	}
 }
 ```
