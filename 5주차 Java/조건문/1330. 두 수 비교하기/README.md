@@ -28,3 +28,24 @@
 	<li>A와 B가 같은 경우에는 '<code>==</code>'를 출력한다.</li>
 </ul>
 
+### 풀이
+```
+import java.util.Scanner;
+
+class Main {
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner(System.in);
+		int a = sc.nextInt();
+		int b = sc.nextInt();
+
+		if(a>b){
+            System.out.println(">");
+        }else if(a<b){
+            System.out.println("<");
+        }else{
+            System.out.println("==");
+        }
+	}
+}   
+```
