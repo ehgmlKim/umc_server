@@ -36,9 +36,9 @@ class Main {
 		
 		for(int i=1; i<=t;i++){
 		    int a = sc.nextInt();
-            int b = sc.nextInt();
-            int sum = a + b;
-            System.out.println("Case #"+i+": "+ sum);
+		    int b = sc.nextInt();
+		    int sum = a + b;
+		    System.out.println("Case #"+i+": "+ sum);
 		}
 		
 	}
