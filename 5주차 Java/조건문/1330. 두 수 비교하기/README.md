@@ -40,12 +40,12 @@ class Main {
 		int b = sc.nextInt();
 
 		if(a>b){
-            System.out.println(">");
-        }else if(a<b){
-            System.out.println("<");
-        }else{
-            System.out.println("==");
-        }
+            		System.out.println(">");
+		}else if(a<b){
+		   	System.out.println("<");
+		}else{
+		   	System.out.println("==");
+		}
 	}
 }   
 ```
