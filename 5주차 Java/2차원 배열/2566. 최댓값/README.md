@@ -175,7 +175,7 @@ class Main {
 		}
 
 		System.out.println(max);
-        System.out.println((x+1)+" "+(y+1));
+        	System.out.println((x+1)+" "+(y+1));
         
 	}
 }
