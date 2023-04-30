@@ -29,7 +29,7 @@
 </ul>
 
 ### 풀이
-```
+```java
 import java.util.Scanner;
 
 class Main {
